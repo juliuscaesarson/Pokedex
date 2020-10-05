@@ -1,4 +1,4 @@
-Simple Pokedex with HTML and CSS
+Pokedex with vanilla JS, HTML, and CSS
 
 This project is basically an encyclopedia of all the cute little monsters from the Pokemon universe. 
 
