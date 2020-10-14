@@ -14,3 +14,5 @@ If you want to feel like you are in the TV show, you can then click on the big b
 to initiate a text-to-speech function that reads out the selected Pokemon's description in a computer voice. 
 
 Pokemon data from PokeAPI (https://pokeapi.co)
+
+https://juliuscaesarson.github.io/Pokedex/
